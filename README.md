@@ -38,9 +38,7 @@ I'm driven by the challenge of building systems that scale. From optimizing data
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](#) – Let's network professionally
-- 🐦 [Twitter](#) – Follow my tech musings
-- 📧 **Email** – reach.me@example.com
-- 🌐 [Portfolio](#) – See my full body of work
+- 📧 **Email** –
 
 ## 📚 Always Learning & Growing
 
