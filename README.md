@@ -11,7 +11,7 @@ I'm driven by the challenge of building systems that scale. From optimizing data
 ## 💻 Tech Stack
 
 **Languages & Frameworks:**
-- 🐘 **PHP** – My language of choice
+- 🐘 **PHP|JavaScript** – My language of choice
 - 🚀 **Laravel** – Building modern web applications
 - 💾 **MySQL** – Database design and optimization
 - 🐧 **Linux** – Production environments and DevOps
