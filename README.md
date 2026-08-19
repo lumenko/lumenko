@@ -38,7 +38,7 @@ I'm driven by the challenge of building systems that scale. From optimizing data
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/uzelac-iki) – Let's network professionally
-- 📧 **Email** –
+- 🌐 [Personal website](https://lumenko.zova.rs)
 
 ## 📚 Always Learning & Growing
 
