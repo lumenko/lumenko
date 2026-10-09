@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">IKA — Building what's next</title>
+<desc id="desc">Minimal editorial IKA cover in off-white, charcoal and indigo</desc>
+<defs>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M 30 0 L 0 0 0 30" fill="none" stroke="#171921" stroke-opacity=".055" stroke-width="1"/></pattern>
+<clipPath id="frame"><rect width="1200" height="360" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="360" fill="#f5f5f2"/>
+<rect x="755" y="0" width="445" height="360" fill="#eae9f2"/>
+<rect x="755" width="445" height="360" fill="url(#grid)"/>
+<circle cx="1063" cy="158" r="181" fill="#8176ff" fill-opacity=".13"/>
+<circle cx="1063" cy="158" r="124" fill="none" stroke="#8176ff" stroke-opacity=".4" stroke-width="1.5"/>
+<circle cx="1063" cy="158" r="82" fill="#8176ff" fill-opacity=".13"/>
+<text x="822" y="231" fill="#171921" font-family="Arial,Helvetica,sans-serif" font-size="139" font-weight="900" letter-spacing="-12">IKA</text>
+<circle cx="1112" cy="226" r="12" fill="#8176ff"/>
+<rect x="58" y="48" width="58" height="58" rx="13" fill="#171921"/>
+<text x="64" y="86" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="800" letter-spacing="-2">IKA</text>
+<circle cx="108" cy="89" r="3" fill="#8176ff"/>
+<text x="131" y="84" fill="#565760" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="2.2">ENGINEERING / INTELLIGENCE / IDEAS</text>
+<text x="58" y="194" fill="#171921" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="800" letter-spacing="-2">Building what's</text>
+<text x="58" y="259" fill="#8176ff" font-family="Arial,Helvetica,sans-serif" font-size="65" font-weight="800" letter-spacing="-2.3">next.</text>
+<rect x="58" y="294" width="640" height="1" fill="#171921" fill-opacity=".17"/>
+<text x="58" y="325" fill="#565760" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">ILIJA UZELAC</text>
+<text x="352" y="325" fill="#565760" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">AI-NATIVE SOFTWARE ENGINEERING</text>
+</g>
+</svg>
