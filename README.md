@@ -1,42 +1,60 @@
-# IKA — Ilija Uzelac
+<p align="center">
+  <img src="assets/ika-banner.svg" alt="IKA — Building what's next" width="100%" />
+</p>
 
-**Senior Software Engineer · AI-Native & Agentic Engineering**  
-[Website](https://lumenko.zova.rs) · [LinkedIn](https://linkedin.com/in/uzelac-iki)
+<p align="center">
+  <img src="assets/ika-mark.svg" alt="IKA monogram" width="48" />
+</p>
 
-I design and build software that is **simple, secure, and built to last**.
+<h1 align="center">Ilija Uzelac</h1>
 
-I'm a senior software engineer with **11+ years of experience** in backend development, SaaS platforms, system architecture, and technical leadership. I currently work at **Forwardslash**.
+<p align="center">
+  <strong>Senior Software Engineer at Forwardslash</strong><br>
+  AI-Native &amp; Agentic Engineering · Software Architecture · Security
+</p>
 
-My work is evolving toward **AI-native engineering**: applying AI-assisted workflows, agents, and automation to real software problems while keeping architecture, reliability, and security at the center.
-
-## What I do
-
-- **Architecture & backend** — SaaS platforms, domain modeling, services, and REST/GraphQL APIs.
-- **Data & delivery** — MySQL, PostgreSQL, CI/CD, testing, Docker, and observability.
-- **Security & reliability** — secure design, access control, threat modeling, and production readiness.
-- **Technical leadership** — pragmatic decisions, maintainable code, collaboration, and mentoring.
-- **AI-native development** — exploring agentic workflows, MCP, and secure AI integrations.
-
-My background includes **PHP, Laravel, JavaScript, and Linux**. I'm technology-agnostic: I choose tools for the problem, not the trend.
-
-## IKA — what I'm building
-
-**IKA** is my personal brand and long-term platform vision: a connected space for engineering, ideas, community, and a private AI-powered workspace.
-
-The vision has three layers:
-
-1. **Public** — my digital home and professional presence.
-2. **Community** — a space for people, ideas, and conversations.
-3. **Private OS** — an owner-only workspace bringing tools, knowledge, and AI together.
-
-The public site exists today. The community and private OS are **work in progress**, not launched products.
-
-## How I think
-
-**Clarity over complexity.** Build what matters. Automate thoughtfully. Protect the fundamentals. Keep learning.
-
-Beyond software, I care about **animals, nature, and a quieter, more intentional way of life**.
+<p align="center">
+  <a href="https://lumenko.zova.rs">Website ↗</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/uzelac-iki">LinkedIn ↗</a>
+</p>
 
 ---
 
-[Explore my website](https://lumenko.zova.rs) · [Connect on LinkedIn](https://linkedin.com/in/uzelac-iki)
+## 🧭 Engineering with intent
+
+I build **simple, secure, and lasting software**.
+
+I'm a software engineer with **11+ years of experience** across SaaS platforms, backend architecture, API design, and technical leadership. My current work at **Forwardslash** sits alongside a growing focus on **AI-native engineering** — using intelligent tools and agentic workflows deliberately, without compromising software fundamentals.
+
+## ⚙️ What I focus on
+
+- 🏗️ **Architecture** — SaaS, distributed systems, domain modeling, REST and GraphQL.
+- 🤖 **AI-native engineering** — AI-assisted development, agentic workflows, MCP, and responsible automation.
+- 🛡️ **Security & reliability** — secure APIs, access control, threat modeling, observability.
+- 🚀 **Delivery & leadership** — testing, CI/CD, maintainability, mentoring, and pragmatic technical decisions.
+
+**Toolbox** · PHP / Laravel · JavaScript · MySQL / PostgreSQL · Docker · Linux · Cloud & DevOps
+
+I'm not defined by a framework. **The problem determines the stack.**
+
+## ✦ IKA — the next chapter
+
+**IKA** is my personal digital space: a home for engineering, ideas, and the systems I'm building.
+
+**01 / PUBLIC** → **02 / COMMUNITY** → **03 / PRIVATE OS**
+
+The public website is live. A community layer and private, AI-powered owner workspace are part of the **long-term vision** — not launched products.
+
+> Clarity over complexity. Build with intent. Keep evolving.
+
+## 🌿 Beyond code
+
+🐾 Animals · 🌱 Nature · 💡 Independent thinking · ✨ A simpler, more intentional life
+
+---
+
+<p align="center">
+  <strong>IKA · THINK / BUILD / EVOLVE ↗</strong><br>
+  <a href="https://lumenko.zova.rs">Explore IKA</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/uzelac-iki">Let's connect</a>
+</p>
