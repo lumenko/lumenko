@@ -1,62 +1,42 @@
-# Hey there! 👋 Welcome to my GitHub
+# IKA — Ilija Uzelac
 
-I'm **lumenko**, a Backend Engineer passionate about building robust, scalable SaaS platforms and APIs. I thrive on crafting clean code, mentoring teams, and solving complex architectural challenges.
+**Senior Software Engineer · AI-Native & Agentic Engineering**  
+[Website](https://lumenko.zova.rs) · [LinkedIn](https://linkedin.com/in/uzelac-iki)
 
-## 🚀 About Me
+I design and build software that is **simple, secure, and built to last**.
 
-**Backend Engineer | SaaS & API Architect | Tech Lead & Mentor**
+I'm a senior software engineer with **11+ years of experience** in backend development, SaaS platforms, system architecture, and technical leadership. I currently work at **Forwardslash**.
 
-I'm driven by the challenge of building systems that scale. From optimizing database queries to designing secure APIs, I love the intersection of code quality, performance, and innovation. When I'm not coding, you'll find me advocating for best practices and helping other developers level up.
+My work is evolving toward **AI-native engineering**: applying AI-assisted workflows, agents, and automation to real software problems while keeping architecture, reliability, and security at the center.
 
-## 💻 Tech Stack
+## What I do
 
-**Languages & Frameworks:**
-- 🐘 **PHP|JavaScript** – My language of choice
-- 🚀 **Laravel** – Building modern web applications
-- 💾 **MySQL** – Database design and optimization
-- 🐧 **Linux** – Production environments and DevOps
+- **Architecture & backend** — SaaS platforms, domain modeling, services, and REST/GraphQL APIs.
+- **Data & delivery** — MySQL, PostgreSQL, CI/CD, testing, Docker, and observability.
+- **Security & reliability** — secure design, access control, threat modeling, and production readiness.
+- **Technical leadership** — pragmatic decisions, maintainable code, collaboration, and mentoring.
+- **AI-native development** — exploring agentic workflows, MCP, and secure AI integrations.
 
-**Infrastructure & DevOps:**
-- ☁️ **Cloud Architecture** – Scalable, resilient systems
-- 🔄 **CI/CD Pipelines** – Automated testing and deployment
-- 🔐 **Security** – Application hardening and compliance
-- 🐳 **Docker & Containerization** – Microservices ready
+My background includes **PHP, Laravel, JavaScript, and Linux**. I'm technology-agnostic: I choose tools for the problem, not the trend.
 
-## 🎯 What I Bring to the Table
+## IKA — what I'm building
 
-✅ **Backend Architecture** – Designing systems that grow with your business  
-✅ **API Development** – Building secure, well-documented, RESTful APIs  
-✅ **Database Optimization** – Crafting efficient queries and schemas  
-✅ **Security First** – Implementing best practices from day one  
-✅ **Team Leadership** – Mentoring developers and raising code standards  
-✅ **DevOps & Automation** – CI/CD pipelines and infrastructure as code  
+**IKA** is my personal brand and long-term platform vision: a connected space for engineering, ideas, community, and a private AI-powered workspace.
 
-## 📊 GitHub Stats
+The vision has three layers:
 
-![Profile Views](https://komarev.com/ghpvc/?username=lumenko&color=blueviolet)
+1. **Public** — my digital home and professional presence.
+2. **Community** — a space for people, ideas, and conversations.
+3. **Private OS** — an owner-only workspace bringing tools, knowledge, and AI together.
 
-## 🤝 Let's Connect
+The public site exists today. The community and private OS are **work in progress**, not launched products.
 
-- 💼 [LinkedIn](https://linkedin.com/in/uzelac-iki) – Let's network professionally
-- 🌐 [Personal website](https://lumenko.zova.rs)
+## How I think
 
-## 📚 Always Learning & Growing
+**Clarity over complexity.** Build what matters. Automate thoughtfully. Protect the fundamentals. Keep learning.
 
-I'm constantly exploring emerging technologies and best practices:
-- 🏗️ Advanced system design and architecture patterns
-- 🔐 Modern security practices and threat modeling
-- 📈 Performance optimization and scalability
-- 🤖 AI integration in backend systems
-
-## ✨ Beyond Code
-
-- 🌱 **Passionate about mentoring** – Helping developers grow and succeed
-- 🐾 **Animal lover** – Strong advocate for animal welfare
-- 🥗 **Vegetarian** – Living sustainably and mindfully
-- 🚀 **Forever learning** – The tech world never stops, and neither do I!
+Beyond software, I care about **animals, nature, and a quieter, more intentional way of life**.
 
 ---
 
-*Thanks for visiting! Explore my repositories, check out my latest projects, and don't hesitate to reach out for collaboration, discussions, or just to chat about backend engineering.*
-
-**Let's build something amazing together! 🚀**
+[Explore my website](https://lumenko.zova.rs) · [Connect on LinkedIn](https://linkedin.com/in/uzelac-iki)
