@@ -1,60 +1,44 @@
-<p align="center">
-  <img src="assets/ika-banner.svg" alt="IKA — Building what's next" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="assets/ika-mark.svg" alt="IKA monogram" width="48" />
-</p>
+<img src="assets/pastel-city.jpg" alt="Pastel miniature city in pink, lavender, mint and apricot" width="100%" />
 
-<h1 align="center">Ilija Uzelac</h1>
+<br />
 
-<p align="center">
-  <strong>Senior Software Engineer at Forwardslash</strong><br>
-  AI-Native &amp; Agentic Engineering · Software Architecture · Security
-</p>
+<img src="assets/avatar.jpg" alt="Illustrated portrait of Lumenko" width="160" />
 
-<p align="center">
-  <a href="https://lumenko.zova.rs">Website ↗</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/uzelac-iki">LinkedIn ↗</a>
-</p>
+# Hi, I'm Lumenko! 🌸
 
----
+**Building thoughtful digital things, one little detail at a time.**
 
-## 🧭 Engineering with intent
+*Curiosity, creativity, and a little pastel magic.* ✨
 
-I build **simple, secure, and lasting software**.
+[![Explore my projects](https://img.shields.io/badge/Explore_my_projects-F5A9CB?style=for-the-badge&logo=github&logoColor=51435C)](https://github.com/lumenko?tab=repositories)
+[![Follow on GitHub](https://img.shields.io/badge/Follow_along-C5A7EF?style=for-the-badge&logo=github&logoColor=51435C)](https://github.com/lumenko)
 
-I'm a software engineer with **11+ years of experience** across SaaS platforms, backend architecture, API design, and technical leadership. My current work at **Forwardslash** sits alongside a growing focus on **AI-native engineering** — using intelligent tools and agentic workflows deliberately, without compromising software fundamentals.
-
-## ⚙️ What I focus on
-
-- 🏗️ **Architecture** — SaaS, distributed systems, domain modeling, REST and GraphQL.
-- 🤖 **AI-native engineering** — AI-assisted development, agentic workflows, MCP, and responsible automation.
-- 🛡️ **Security & reliability** — secure APIs, access control, threat modeling, observability.
-- 🚀 **Delivery & leadership** — testing, CI/CD, maintainability, mentoring, and pragmatic technical decisions.
-
-**Toolbox** · PHP / Laravel · JavaScript · MySQL / PostgreSQL · Docker · Linux · Cloud & DevOps
-
-I'm not defined by a framework. **The problem determines the stack.**
-
-## ✦ IKA — the next chapter
-
-**IKA** is my personal digital space: a home for engineering, ideas, and the systems I'm building.
-
-**01 / PUBLIC** → **02 / COMMUNITY** → **03 / PRIVATE OS**
-
-The public website is live. A community layer and private, AI-powered owner workspace are part of the **long-term vision** — not launched products.
-
-> Clarity over complexity. Build with intent. Keep evolving.
-
-## 🌿 Beyond code
-
-🐾 Animals · 🌱 Nature · 💡 Independent thinking · ✨ A simpler, more intentional life
+</div>
 
 ---
 
-<p align="center">
-  <strong>IKA · THINK / BUILD / EVOLVE ↗</strong><br>
-  <a href="https://lumenko.zova.rs">Explore IKA</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/uzelac-iki">Let's connect</a>
-</p>
+### 🌿 A little about me
+
+I enjoy exploring ideas, learning new things, and making digital experiences feel a little more delightful. This is my corner of GitHub for experiments, projects, and things I'm excited to share.
+
+### 🍑 What you'll find here
+
+- **Projects** — things I'm building and refining.
+- **Experiments** — small ideas worth trying.
+- **Learning notes** — discoveries along the way.
+
+### 🪻 Featured work
+
+Take a look at my [repositories](https://github.com/lumenko?tab=repositories), or explore the projects pinned below this README.
+
+---
+
+<div align="center">
+
+**Made with curiosity, care, and a splash of color.** 🌷
+
+<sub>Thanks for stopping by my little corner of the internet.</sub>
+
+</div>
